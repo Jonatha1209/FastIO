@@ -1,0 +1,2 @@
+# FastIO
+My Fastio Implementation.
